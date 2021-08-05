@@ -1,0 +1,10 @@
+.head {
+   padding-top: 5px;
+    margin-left: 100px;
+}
+
+.video {
+    display: flex;
+    width: 370;
+    height: 200;
+}
